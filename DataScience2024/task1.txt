@@ -1,0 +1,3 @@
+Task one of bharat intern is to create a titanic classfication:
+Whether someone died or survived.
+A basic outline has been created for the following task
